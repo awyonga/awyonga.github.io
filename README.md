@@ -3,7 +3,8 @@
 # Introduction
 <br/>
 Hi, this is Amanda Awyong !
-![image](https://user-images.githubusercontent.com/105594106/168606185-12808e76-6233-43c8-89f9-151de7bef480.png)
+<br/>
+![image](https://user-images.githubusercontent.com/105594106/168606532-70fe3456-70e4-4ec0-b73d-f79167008cd5.png)
 
 # Research
 
