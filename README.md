@@ -1,3 +1,3 @@
-## Welcome to Amanda's Persponal site
+## Welcome to Amanda's Personal site
 
 Hi, this is Amanda Awyong !
