@@ -10,14 +10,14 @@ In my free time, I enjoy cycling and exploring the quieter parts of Singapore.
 
 ## Research
 <ins>Working Papers:</ins><br>
-Do Non-Earnings Tweets Increase Information Asymmetry? <br>(with Richard Crowley and Liandong Zhang)<br><br>
-Do Managers Learn from Analyst Participation in Conference Calls? <br> (with Young Jun Cho and Holly Yang)<br><br>
-Digitalization, Accounting Jobs, and Financial Reporting Quality <br> (with Qiang Cheng, Tian Deng, and Rencheng Wang)<br><br>
+*   Do Non-Earnings Tweets Increase Information Asymmetry? <br>(with Richard Crowley and Liandong Zhang)<br><br>
+*   Do Managers Learn from Analyst Participation in Conference Calls? <br> (with Young Jun Cho and Holly Yang)<br><br>
+*   Digitalization, Accounting Jobs, and Financial Reporting Quality <br> (with Qiang Cheng, Tian Deng, and Rencheng Wang)<br><br>
 
 ## Teaching
-Master of Science in Accounting (Data & Analytics) – Teaching Assistant for Jiwei Wang<br>
-Financial Accounting – Teaching Assistant for Richard Crowley and Samuel Tan<br>
-Master of Science in Wealth Management (Private Equity & Venture Capital) – Teaching Assistant for Stefan Morkoetter<br>
+*   Master of Science in Accounting (Data & Analytics) – Teaching Assistant for Jiwei Wang<br>
+*   Financial Accounting – Teaching Assistant for Richard Crowley and Samuel Tan<br>
+*   Master of Science in Wealth Management (Private Equity & Venture Capital) – Teaching Assistant for Stefan Morkoetter<br>
 
 ## Contact
 aawyong.2018@phdacc.smu.edu.sg<br>
