@@ -1,8 +1,4 @@
----
-title: "Welcome to Amanda's Personal site"
----
-
-# About Me
+## About Me
 <p align="justify">
 ![image](https://user-images.githubusercontent.com/105594106/169694396-dc25bcc1-8433-42b5-b985-aee89789a6b8.png)<br>
 Hello, I am Amanda Awyong, a PhD Candidate in Accounting at Singapore Management University. My research interest lies in the intersection of digital transformation and accounting. My work examines how firms are affected by, and react to, the advancement of digital technologies. In addition, I investigate how managers disclose information through social media platforms such as Twitter and Reddit. My research strategy is to extract the richness of textual data by applying Natural Language Processing techniques to test traditional economic theories. 
