@@ -20,5 +20,8 @@ In my free time, I enjoy cycling and exploring the quieter parts of Singapore.
 *   Master of Science in Wealth Management (Private Equity & Venture Capital) – Teaching Assistant for Stefan Morkoetter<br>
 
 ## Contact
-aawyong.2018@phdacc.smu.edu.sg<br>
+<a href='mailto:aawyong.2018@phdacc.smu.edu.sg'>
+aawyong.2018@phdacc.smu.edu.sg
+</a>  
+<br>
 
