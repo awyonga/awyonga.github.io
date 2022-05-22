@@ -1,6 +1,6 @@
-## Welcome to Amanda's Personal site
-
-
+---
+title: "Welcome to Amanda's Personal site"
+---
 
 # About Me
 <p align="justify">
