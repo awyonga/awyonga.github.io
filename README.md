@@ -21,16 +21,16 @@ In my free time, I enjoy cycling and exploring the quieter parts of Singapore.
 
 ## Teaching
 *   Introduction to Financial Accounting – Instructor
-*   Master of Science in Accounting (Data & Analytics) – Teaching Assistant for Jiwei Wang<br>
-*   Introduction to Financial Accounting – Teaching Assistant for Richard Crowley and Samuel Tan<br>
-*   Master of Science in Wealth Management (Private Equity & Venture Capital) – Teaching Assistant for Stefan Morkoetter<br>
+*   Master of Science in Accounting (Data & Analytics) – TA for Jiwei Wang<br>
+*   Introduction to Financial Accounting – TA for Richard Crowley and Samuel Tan<br>
+*   Master of Science in Wealth Management (Private Equity & Venture Capital) – TA for Stefan Morkoetter<br>
 
 ## Professional Membership and Awards
 *   Chartered Accountant (Singapore)
 *   2022 3MT Competition Winner (Singapore Management University)
 *   2022 3MT People's Choice Award Winner (Singapore)
 *   2022 3MT Finalist (Asia-Pacific)
-*   28th Asian-Pacific Accounting Conference (Vernon Zimmerman Best Paper Award) - Undergraduate thesis
+*   28th Asian-Pacific Accounting Conference Vernon Zimmerman Best Paper Award - Undergraduate thesis
 *   National University of Singapore: Dean's List; University Scholars Program President's Honor Roll
 
 ## Programming Languages
