@@ -31,7 +31,7 @@ In my free time, I enjoy cycling and exploring the quieter parts of Singapore.
 *   2022 3MT People's Choice Award Winner (Singapore)
 *   2022 3MT Finalist (Asia-Pacific)
 *   28th Asian-Pacific Accounting Conference (Vernon Zimmerman Best Paper Award) - Undergraduate thesis
-*   National University of Singapore: Dean's List AY12/13, 13/14; University Scholars Program President's Honor Roll
+*   National University of Singapore: Dean's List; University Scholars Program President's Honor Roll
 
 ## Programming Languages
 *   R, Python, Stata
