@@ -11,13 +11,13 @@ In my free time, I enjoy cycling and exploring the quieter parts of Singapore.
 ## Research
 <ins>Working Papers:</ins><br>
 *   The Role of Disclosure in DeFi Markets: Evidence from Twitter (solo-authored)
-*       <i>Presented at: 2022 Cardiff Fintech Conference, 5th UWA Blockchain and Cryptocurrency Conference, 2023 FARS Midyear Meeting (scheduled)</i>
+    > <i>Presented at: 2022 Cardiff Fintech Conference, 5th UWA Blockchain and Cryptocurrency Conference, 2023 FARS Midyear Meeting (scheduled)</i>
 *   Do Non-Earnings Tweets Increase Information Asymmetry? <br>(with Richard Crowley and Liandong Zhang)<br>
-*       <i>Presented at: Singapore Management University, 2021 AAA Annual Meeting</i>
+    > <i>Presented at: Singapore Management University, 2021 AAA Annual Meeting</i>
 *   Do Managers Learn from Analyst Participation in Conference Calls? <br> (with Young Jun Cho and Holly Yang)<br>
-*       <i>Presented at: Singapore Management University, 2022 AAA Annual Meeting</i>
+    > <i>Presented at: Singapore Management University, 2022 AAA Annual Meeting</i>
 *   Digitalization, Accounting Jobs, and Financial Reporting Quality <br> (with Qiang Cheng, Tian Deng, and Rencheng Wang)<br>
-*       <i>Presented at: Singapore Management University, 9th Annual ABFER Conference, 2022 AAA Annual Meeting (co-author), 2022 MIT Asia Conference (co-author)</i>
+    > <i>Presented at: Singapore Management University, 9th Annual ABFER Conference, 2022 AAA Annual Meeting (co-author), 2022 MIT Asia Conference (co-author)</i>
 
 ## Teaching
 *   Introduction to Financial Accounting (Undergraduate)
