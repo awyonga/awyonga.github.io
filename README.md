@@ -42,6 +42,7 @@ In my free time, I enjoy cycling and exploring the quieter parts of Singapore.
 <a href='mailto:aawyong.2018@phdacc.smu.edu.sg'>
 aawyong.2018@phdacc.smu.edu.sg
 </a>
-<a href='https://www.awyongamanda.com/'>Home</a>
+<br/>
+<a href='https://www.awyongamanda.com/'>Go Top</a>
 <br>
 
