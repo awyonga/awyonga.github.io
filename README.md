@@ -18,8 +18,6 @@ In my free time, I enjoy cycling and exploring the quieter parts of Singapore.
     > <i>Presented at: Singapore Management University, 2022 AAA Annual Meeting</i>
 *   Do Non-Earnings Tweets Increase Information Asymmetry? <br>(with Richard Crowley and Liandong Zhang)<br>
     > <i>Presented at: Singapore Management University, 2021 AAA Annual Meeting</i>
-*   
-*   
 
 ## Teaching
 *   Introduction to Financial Accounting – Instructor
