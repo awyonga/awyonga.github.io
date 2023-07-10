@@ -1,9 +1,9 @@
 # About Me
 ![About Me](https://user-images.githubusercontent.com/105594106/169694775-3a60710e-7571-49a9-bc69-e630082cab45.png)
 <p align="justify"> 
-Hello, I am Amanda Awyong, a PhD Candidate in Accounting at Singapore Management University. My research interest lies in the intersection of digital transformation and accounting. My work examines how firms are affected by, and react to, the advancement of digital technologies. In addition, I investigate how managers disclose information through social media platforms such as Twitter. More recently, I am interested in how Decentralized Finance (DeFi) platforms communicate blockchain information. My overall research strategy is to extract the richness of textual data by applying Natural Language Processing techniques to test traditional economic theories. 
+Hello, I am Amanda Awyong, an Assistant Professor at Hong Kong Baptist University. My research interest lies in the intersection of digital transformation and accounting. My work examines how firms are affected by, and react to, the advancement of digital technologies. In addition, I investigate how managers disclose information through social media platforms such as Twitter. More recently, I am interested in how Decentralized Finance (DeFi) platforms communicate blockchain information. My overall research strategy is to extract the richness of textual data by applying Natural Language Processing techniques to test traditional economic theories. 
 <br><br>
-I received my B.B.A (Accountancy) and B.A (Communications) from the National University of Singapore. Prior to my PhD studies, I had five years of working experience in corporate accounting and external audit. 
+I obtained by PhD in Accounting from Singapore Management University, and B.B.A (Accountancy) and B.A (Communications) from the National University of Singapore. Prior to my PhD studies, I had five years of working experience in corporate accounting and external audit. 
 <br><br>
 In my free time, I enjoy cycling and exploring the quieter parts of Singapore. 
 </p>
@@ -11,7 +11,7 @@ In my free time, I enjoy cycling and exploring the quieter parts of Singapore.
 ## Research
 <ins>Working Papers:</ins><br>
 *   The Role of Disclosure in DeFi Markets: Evidence from Twitter (solo-authored)
-    > <i>Presented at: 2022 Cardiff Fintech Conference, 5th UWA Blockchain and Cryptocurrency Conference, 2022 Global AI Finance Research Conference, and 2023 FARS     Midyear Meeting</i>
+    > <i>Presented at: 2022 Cardiff Fintech Conference, 5th UWA Blockchain and Cryptocurrency Conference, 2022 Global AI Finance Research Conference, 2023 FARS Midyear Meeting, and 2023 MIT Asia Conference</i>
 *   Digitalization, Accounting Jobs, and Financial Reporting Quality <br> (with Qiang Cheng, Tian Deng, and Rencheng Wang)<br>
     > <i>Presented at: Singapore Management University, 9th Annual ABFER Conference, 2022 AAA Annual Meeting (co-author), 2022 MIT Asia Conference (co-author)</i>
 *   Do Managers Learn from Analyst Participation in Conference Calls? <br> (with Young Jun Cho and Holly Yang)<br>
@@ -21,6 +21,7 @@ In my free time, I enjoy cycling and exploring the quieter parts of Singapore.
 
 ## Teaching
 *   Introduction to Financial Accounting – Instructor
+    > <i> Evalutaion: 6.7/7.0 </i>
 *   Master of Science in Accounting (Forecasting and Forensic Analytics) – TA for Jiwei Wang<br>
 *   Introduction to Financial Accounting – TA for Richard Crowley and Samuel Tan<br>
 *   Master of Science in Wealth Management (Private Equity & Venture Capital) – TA for Stefan Morkoetter<br>
@@ -39,8 +40,8 @@ In my free time, I enjoy cycling and exploring the quieter parts of Singapore.
 *   R, Python, Stata
 
 ## Contact
-<a href='mailto:aawyong.2018@phdacc.smu.edu.sg'>
-aawyong.2018@phdacc.smu.edu.sg
+<a href='mailto:awyongamanda@hkbu.edu.hk'>
+awyongamanda@hkbu.edu.hk
 </a>
 <br/>
 <a href='https://www.awyongamanda.com/'>Go Top</a>
