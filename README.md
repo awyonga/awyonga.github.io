@@ -1,7 +1,7 @@
 # About Me
 ![About Me](https://user-images.githubusercontent.com/105594106/169694775-3a60710e-7571-49a9-bc69-e630082cab45.png)
 <p align="justify"> 
-Hello, I am Amanda Awyong, an Assistant Professor at Hong Kong Baptist University. My research interest lies in the intersection of digital transformation and accounting. My work examines how firms are affected by, and react to, the advancement of digital technologies. In addition, I investigate how managers disclose information through social media platforms such as Twitter. More recently, I am interested in how Decentralized Finance (DeFi) platforms communicate blockchain information. My overall research strategy is to extract the richness of textual data by applying Natural Language Processing techniques to test traditional economic theories. 
+Hello, I am Amanda Awyong, an Assistant Professor of Accountancy at Hong Kong Baptist University. My research interest lies in the intersection of digital transformation and accounting. My work examines how firms are affected by, and react to, the advancement of digital technologies. In addition, I investigate how managers disclose information through social media platforms such as Twitter. More recently, I am interested in how Decentralized Finance (DeFi) platforms communicate blockchain information. My overall research strategy is to extract the richness of textual data by applying Natural Language Processing techniques to test traditional economic theories. 
 <br><br>
 I obtained by PhD in Accounting from Singapore Management University, and B.B.A (Accountancy) and B.A (Communications) from the National University of Singapore. Prior to my PhD studies, I had five years of working experience in corporate accounting and external audit. 
 <br><br>
