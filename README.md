@@ -21,7 +21,7 @@ In my free time, I enjoy cycling and exploring the quieter parts of Singapore.
 
 ## Teaching
 *   Introduction to Financial Accounting – Instructor
-    > <i> Evalutaion: 6.7/7.0 </i>
+    > <i> Evaluation: 6.7/7.0 </i>
 *   Master of Science in Accounting (Forecasting and Forensic Analytics) – TA for Jiwei Wang<br>
 *   Introduction to Financial Accounting – TA for Richard Crowley and Samuel Tan<br>
 *   Master of Science in Wealth Management (Private Equity & Venture Capital) – TA for Stefan Morkoetter<br>
