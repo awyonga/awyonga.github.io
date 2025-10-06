@@ -10,9 +10,11 @@ In my free time, I enjoy cycling and exploring the quieter parts of cities.
 
 ## Research
 <ins>Publications:</ins><br>
-*   Conference Calls and Information Spillover: The Role of Analyst Participation <br> (with Young Jun Cho and Holly Yang)<br>
-    > <i>The Review of Accounting Studies, Forthcoming</i>
-    > <i>Presented at: Singapore Management University, 2022 AAA Annual Meeting</i>
+* **Conference Calls and Information Spillover: The Role of Analyst Participation**  
+  (with Young Jun Cho and Holly Yang)  
+  *The Review of Accounting Studies*, Forthcoming  
+  _Presented at: Singapore Management University, 2022 AAA Annual Meeting_
+
     
 <ins>Working Papers:</ins><br>
 *   The Role of Disclosure in DeFi Markets: Evidence from Twitter (solo-authored). 
