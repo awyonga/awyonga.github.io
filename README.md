@@ -18,10 +18,10 @@ In my free time, I enjoy cycling and exploring the quieter parts of cities.
     
 <ins>Working Papers:</ins>
 
-* **The Role of Disclosure in DeFi Markets: Evidence from Twitter** (solo-authored)  
+* **[The Role of Disclosure in DeFi Markets: Evidence from Twitter](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5150613)** (solo-authored)  
   *Status: R&R*  
   Presented at: 2022 Cardiff Fintech Conference; 5th UWA Blockchain and Cryptocurrency Conference; 2022 Global AI Finance Research Conference; 2023 FARS Midyear Meeting; 2023 MIT Asia Conference  
-  Winner of Best Paper Award at 2023 MIT Asia Conference  
+  Winner of Best Paper Award at 2023 MIT Asia Conference
 
 * **Firm Digitalization and Accounting Jobs**  
   (with Qiang Cheng, Tian Deng, and Rencheng Wang)  
