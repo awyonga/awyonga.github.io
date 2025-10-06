@@ -13,21 +13,29 @@ In my free time, I enjoy cycling and exploring the quieter parts of cities.
 * **Conference Calls and Information Spillover: The Role of Analyst Participation**  
   (with Young Jun Cho and Holly Yang)  
   *The Review of Accounting Studies*, Forthcoming  
-  __Presented at: Singapore Management University, 2022 AAA Annual Meeting__
+  Presented at: Singapore Management University, 2022 AAA Annual Meeting
 
     
-<ins>Working Papers:</ins><br>
-*   The Role of Disclosure in DeFi Markets: Evidence from Twitter (solo-authored). 
-    > <i>Status: R&R</i>
-    > <i>Presented at: 2022 Cardiff Fintech Conference, 5th UWA Blockchain and Cryptocurrency Conference, 2022 Global AI Finance Research Conference, 2023 FARS Midyear Meeting, and 2023 MIT Asia Conference</i>
-    > <i>Winner of Best Paper Award at 2023 MIT Asia Conference</i>
-*   Firm Digitalization and Accounting Jobs <br> (with Qiang Cheng, Tian Deng, and Rencheng Wang)<br>
-    > <i>Status: R&R</i>
-    > <i>Presented at: Singapore Management University, 9th Annual ABFER Conference, 2022 AAA Annual Meeting (co-author), 2022 MIT Asia Conference (co-author)</i>
-*   Echoes on the Blockchain: Spillovers in DeFi Markets <br> (with Kevin Tseng)<br>
-    > <i>Presented at: 2025 Hong Kong-Macau Junior Accounting Faculty Conference</i>
-*   Do Non-Earnings Tweets Increase Information Asymmetry? <br>(with Richard Crowley and Liandong Zhang)<br>
-    > <i>Presented at: Singapore Management University, 2021 AAA Annual Meeting</i>
+<ins>Working Papers:</ins>
+
+* **The Role of Disclosure in DeFi Markets: Evidence from Twitter** (solo-authored)  
+  *Status: R&R*  
+  Presented at: 2022 Cardiff Fintech Conference; 5th UWA Blockchain and Cryptocurrency Conference; 2022 Global AI Finance Research Conference; 2023 FARS Midyear Meeting; 2023 MIT Asia Conference  
+  Winner of Best Paper Award at 2023 MIT Asia Conference  
+
+* **Firm Digitalization and Accounting Jobs**  
+  (with Qiang Cheng, Tian Deng, and Rencheng Wang)  
+  *Status: R&R*  
+  Presented at: Singapore Management University; 9th Annual ABFER Conference; 2022 AAA Annual Meeting (co-author); 2022 MIT Asia Conference (co-author)  
+
+* **Echoes on the Blockchain: Spillovers in DeFi Markets**  
+  (with Kevin Tseng)  
+  Presented at: 2025 Hong Kong–Macau Junior Accounting Faculty Conference  
+
+* **Do Non-Earnings Tweets Increase Information Asymmetry?**  
+  (with Richard Crowley and Liandong Zhang)  
+  Presented at: Singapore Management University; 2021 AAA Annual Meeting
+
 
 ## Teaching
 *   Introduction to Financial Accounting – Instructor at SMU and HKBU
