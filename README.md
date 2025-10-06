@@ -13,7 +13,7 @@ In my free time, I enjoy cycling and exploring the quieter parts of cities.
 * **Conference Calls and Information Spillover: The Role of Analyst Participation**  
   (with Young Jun Cho and Holly Yang)  
   *The Review of Accounting Studies*, Forthcoming  
-  _Presented at: Singapore Management University, 2022 AAA Annual Meeting_
+  __Presented at: Singapore Management University, 2022 AAA Annual Meeting__
 
     
 <ins>Working Papers:</ins><br>
