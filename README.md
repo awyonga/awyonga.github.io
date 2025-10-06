@@ -15,7 +15,7 @@ In my free time, I enjoy cycling and exploring the quieter parts of cities.
   *The Review of Accounting Studies*, Forthcoming  
   Presented at: Singapore Management University, 2022 AAA Annual Meeting
 
-    
+     
 <ins>Working Papers:</ins>
 
 * **[The Role of Disclosure in DeFi Markets: Evidence from Twitter](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5150613)** (solo-authored)  
